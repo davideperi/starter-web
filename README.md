@@ -18,3 +18,7 @@ this is an example to show the difference. this is an example to show the differ
 ## Copyright
 
 Davide Peri 2016
+
+## Notes
+
+Please fork this repository and then issue pull request for review.
